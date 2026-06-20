@@ -5,7 +5,7 @@ A modern, responsive personal portfolio website built using **HTML, CSS, and Jav
 ---
 
 ## 🌐 Live Demo
-👉 https://your-netlify-link-here
+👉 https://bhuvaneshwari-nagarajan24.netlify.app/
 
 ---
 
